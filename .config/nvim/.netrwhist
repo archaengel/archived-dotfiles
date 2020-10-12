@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/god/Proj/js/gql-jwt/src/routes'
+let g:netrw_dirhist_0='/Users/god/Proj/js/gql-jwt/src'
+let g:netrw_dirhist_9='/Users/god/Proj/js/gql-jwt/src/graphql'
+let g:netrw_dirhist_8='/Users/god/Proj/js/gql-jwt/src/graphql/resolvers'
+let g:netrw_dirhist_7='/Users/god/Proj/js/gql-jwt/src/graphql/resolvers/mutation'
+let g:netrw_dirhist_6='/Users/god/Proj/js/gql-jwt/src/graphql/resolvers'
+let g:netrw_dirhist_5='/Users/god/Proj/js/gql-jwt/src/graphql/resolvers/query'
+let g:netrw_dirhist_4='/Users/god/Proj/js/gql-jwt/src/graphql/resolvers'
+let g:netrw_dirhist_3='/Users/god/Proj/js/gql-jwt/src/graphql'
+let g:netrw_dirhist_2='/Users/god/Proj/js/gql-jwt/src'
